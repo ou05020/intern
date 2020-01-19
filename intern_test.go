@@ -6,7 +6,7 @@ import (
 	"testing"
 	"unsafe"
 
-	"github.com/philpearl/intern"
+	"github.com/ou05020/intern"
 	"github.com/stretchr/testify/assert"
 )
 

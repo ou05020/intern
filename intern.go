@@ -8,7 +8,7 @@ import (
 	"math/bits"
 
 	"github.com/philpearl/aeshash"
-	"github.com/philpearl/stringbank"
+	"github.com/ou05020/stringbank"
 )
 
 // Intern implements the interner. Allocate it
